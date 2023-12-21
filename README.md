@@ -1,6 +1,6 @@
 # minilibX
 
-### MiniLibX is a simple (X-Window (X11R6) programming API in C) and lightweight graphics library often used in educational settings in 42 School network. It's designed to help students learn the basics of graphical programming in a straightforward, hands-on manner. Here's an overview of its features and usage:
+### MiniLibX: is a simple (X-Window (X11R6) programming API in C) and lightweight graphics library often used in educational settings in 42 School network. It's designed to help students learn the basics of graphical programming in a straightforward, hands-on manner. Here's an overview of its features and usage:
 
 ## Contents:
 - source code in C to create the mlx library
